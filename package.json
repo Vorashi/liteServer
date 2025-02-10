@@ -4,7 +4,7 @@
   "description": "Easy server create practic",
   "main": "index.js",
   "scripts": {
-    "test": "&&&&",
+    "init": "npm install",
     "start": "node index.js"
   },
   "repository": {
