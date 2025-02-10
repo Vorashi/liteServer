@@ -1,0 +1,23 @@
+{
+  "name": "lite",
+  "version": "1.0.0",
+  "description": "Easy server create practic",
+  "main": "index.js",
+  "scripts": {
+    "test": "&&&&",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vorashi/liteServer.git"
+  },
+  "author": "Vorash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vorashi/liteServer/issues"
+  },
+  "homepage": "https://github.com/Vorashi/liteServer#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
